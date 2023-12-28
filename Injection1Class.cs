@@ -14,7 +14,6 @@ namespace DepInjExample
         {
             byte[] data = new byte[1024 * 1024]; // 1 MB
             
-
             for (int i = 0; i < mb; i++)
             {
                 // Simulate adding 1 MB of data to the list

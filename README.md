@@ -16,3 +16,7 @@
             return response;
         }
 ```
+
+# Resources
+
+[Overview](https://learn.microsoft.com/en-us/dotnet/core/extensions/dependency-injection#service-registration-methods])
